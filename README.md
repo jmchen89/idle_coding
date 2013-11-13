@@ -1,2 +1,1 @@
-idle_coding
-===========
+just for coding training
